@@ -1,0 +1,10 @@
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/labb3.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/package.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/package_source.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/test.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/edit_cache.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/rebuild_cache.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/list_install_components.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/install.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/install/local.dir
+C:/programingstaf/labs/programmin3rd/labb3/build/CMakeFiles/install/strip.dir
